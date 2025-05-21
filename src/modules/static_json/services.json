@@ -1,0 +1,152 @@
+{
+  "data": [
+    {
+      "pageName": "serviceNow",
+      "redirectionUrl": "/services/service-now",
+      "sections": [
+        {
+          "index": 1,
+          "type": "primaryData",
+          "data": {
+            "main": {
+              "title": "<h2>Evaluate and Optimize <br />Your Workflows with ServiceNow<h2/>",
+              "description": "Align your digital workflows with business outcomes, gain actionable insights through <br />performance analytics, and continuously improve service delivery using ServiceNow’s <br />intelligent automation and AI-powered platform.",
+              "subTitle": "The Leading Platform for Enterprise AI and Automation",
+              "buttonTxt": "",
+              "bgMainImg": {
+                "desktop": "/static/images/servicenow-hero.png"
+              },
+              "titleSize": ""
+            }
+          }
+        },
+        {
+          "index": 3,
+          "type": "concurrentContent",
+          "data": {
+            "imgAlignment": "right",
+            "title": "Rigorous Evaluation, Real ITSM Intelligence",
+            "imgUrl": "/static/images/sn-media-1.png",
+            "descriptionHtml": "<p style=\"margin-bottom: 16px; color: #ccc;\">Unlock the full potential of your IT services with intelligent, data-driven insights powered by ServiceNow.</p><p style=\"margin-bottom: 16px; color: #ccc;\">With Performance Analytics and Now Assist for ITSM, ServiceNow enables comprehensive evaluation of incident trends, service effectiveness, and resolution reliability. Leverage predictive intelligence and AI-driven recommendations to continuously improve service delivery, reduce MTTR, and enhance user satisfaction.</p><p style=\"color: #ccc;\">Transform operational insights into measurable IT performance gains—all on the trusted Now Platform.</p>",
+            "bgColor": "rgba(0, 0, 0, 1)"
+          }
+        },
+        {
+          "index": 4,
+          "type": "flipCards",
+          "data": {
+            "bgColor": "rgba(0, 52, 228, 1)",
+            "iconBgColor": "rgba(35, 136, 255, 0.17)",
+            "header": "A comprehensive analysis approach",
+            "subHeader": "Leverage ServiceNow’s enterprise-grade AI and automation to thoroughly evaluate and enhance your workflow intelligence across the Now Platform.",
+            "btnCongig": {
+              "text": "",
+              "redirection": ""
+            },
+            "cardsData": [
+              {
+                "id": 1,
+                "icon": "/static/images/servicenow/approach-icon-3.svg",
+                "label": "End-to-End ServiceNow Deployment",
+                "description": "Comprehensive implementation services to configure, customize, and deploy ServiceNow solutions that align with your unique business processes and goals."
+              },
+              {
+                "id": 2,
+                "icon": "/static/images/servicenow/approach-icon-2.svg",
+                "label": "ServiceNow Optimization & Performance Tuning",
+                "description": "Analyze and fine-tune your existing ServiceNow environment to boost system performance, reduce technical debt, and enhance overall platform efficiency."
+              },
+              {
+                "id": 3,
+                "icon": "/static/images/servicenow/approach-icon-1.svg",
+                "label": "AI-Driven Workflow Automation",
+                "description": "Leverage ServiceNow’s AI capabilities to automate routine tasks, improve decision-making, and enable predictive service delivery across the enterprise."
+              }
+            ]
+          }
+        },
+        {
+          "index": 5,
+          "type": "quickViewCards",
+          "data": {
+            "header": "Our ServiceNow Capabilities",
+            "bgColor": "#000000",
+            "iconBgColor": "#1a1a1a",
+            "detailsTiles": [
+              {
+                "icon": "/static/images/servicenow/capability-1.svg",
+                "label": "IT Operations & Asset Management",
+                "description": "Optimize your IT landscape with deep expertise in ITOM, CMDB, Discovery, and IT Asset Management. Gain real-time visibility, automate issue resolution, and drive operational efficiency at scale."
+              },
+              {
+                "icon": "/static/images/servicenow/capability-2.svg",
+                "label": "Performance Analytics & APM",
+                "description": "Leverage ServiceNow APM and Performance Analytics to track KPIs, evaluate app value, and align your digital investments with business outcomes. Improve strategic planning and reduce tech debt."
+              },
+              {
+                "icon": "/static/images/servicenow/capability-3.svg",
+                "label": "HR & Workplace Experience",
+                "description": "Deliver seamless employee services through HRSD and Workplace Service Delivery. From onboarding to space management, boost engagement and productivity across the workforce."
+              },
+              {
+                "icon": "/static/images/servicenow/capability-4.svg",
+                "label": "Customer & Field Service Management",
+                "description": "Transform service delivery with powerful tools for Customer and Field Service Management. Route tasks smartly, manage mobile workforces, and resolve customer issues faster and smarter."
+              },
+              {
+                "icon": "/static/images/servicenow/capability-5.svg",
+                "label": "Risk, Compliance & Procurement Ops",
+                "description": "Strengthen your enterprise governance with IRM, supplier operations, business continuity, and procurement automation. Manage risk proactively while improving vendor and finance workflows."
+              },
+              {
+                "icon": "/static/images/servicenow/capability-6.svg",
+                "label": "App Engine, Automation & Integration",
+                "description": "Accelerate innovation using App Engine Studio, low-code tools, and Integration Hub. Deploy ERP workflows, automate tasks with RPA, and seamlessly connect with enterprise systems."
+              }
+            ]
+          }
+        },
+        {
+          "index": 7,
+          "type": "stepperContent",
+          "data": {
+            "heading": "Your ServiceNow journey begins with smart, scalable strategy",
+            "steps": [
+              {
+                "icon": "/static/images/servicenow/stepper-icon-1.svg",
+                "title": "Solution assessment & strategy",
+                "description": "Our experts begin with a thorough evaluation of your current ServiceNow environment, identifying key opportunities and recommending an optimal path forward tailored to your business goals."
+              },
+              {
+                "icon": "/static/images/servicenow/stepper-icon-2.svg",
+                "title": "Defining scope of work",
+                "description": "We work closely with stakeholders to define a clear scope—detailing objectives, timelines, and measurable outcomes—ensuring alignment from day one."
+              },
+              {
+                "icon": "/static/images/servicenow/stepper-icon-3.svg",
+                "title": "Solution offering & delivery roadmap",
+                "description": "Based on the defined scope, we craft a customized solution and phased delivery roadmap, helping you visualize progress while staying agile and outcome-driven."
+              },
+              {
+                "icon": "/static/images/servicenow/stepper-icon-4.svg",
+                "title": "Scale as you need",
+                "description": "Whether you're rolling out to a single department or scaling enterprise-wide, our flexible approach lets you grow at your pace—with built-in readiness for future expansion."
+              }
+            ]
+          }
+        },
+        {
+          "index": 10,
+          "type": "concurrentContent",
+          "data": {
+            "imgAlignment": "right",
+            "title": "Join Our Growing ServiceNow Community",
+            "imgUrl": "/static/images/sn-media-2.png",
+            "descriptionHtml": "<p style=\"margin-bottom: 16px; color: #ccc;\">Our ecosystem goes beyond project work. We have built a strong community of ServiceNow enthusiasts — a space where professionals share knowledge, explore trends, and connect over coffee (virtual or real).</p><a href=\"https://chat.whatsapp.com/Bu7OFoBvzV77wVNKyoiUjA\" target=\"_blank\" style=\"display: inline-block; margin-top: 1rem; background: linear-gradient(90deg, #5B8CFF, #7BA8FF); padding: 0.75rem 1.5rem; border-radius: 999px; color: white; text-decoration: none; font-weight: 500; margin-bottom: 20px; cursor: pointer; \">Join The Community →</a>",
+            "bgColor": "#0046FF"
+          }
+        }
+      ]
+    }
+  ]
+}
