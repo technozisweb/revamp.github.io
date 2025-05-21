@@ -1,10 +1,1 @@
-{
-  "/_error": "pages/_error.js",
-  "/": "pages/index.js",
-  "/api/hello": "pages/api/hello.js",
-  "/_app": "pages/_app.js",
-  "/company": "pages/company.js",
-  "/_document": "pages/_document.js",
-  "/static": "pages/static.js",
-  "/services/[service]": "pages/services/[service].js"
-}
+{"/_app":"pages/_app.js","/_error":"pages/_error.js","/_document":"pages/_document.js","/api/hello":"pages/api/hello.js","/company":"pages/company.html","/":"pages/index.html","/services/[service]":"pages/services/[service].html","/static":"pages/static.html","/404":"pages/404.html"}
